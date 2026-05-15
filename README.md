@@ -1,6 +1,7 @@
 EmployeeSalaryManagement EmployeeInterface link:https://github.com/amoghavarsha910-svg/Employee-Salary-Management/blob/master/EmployeeReportInterface.png
 
-EmployeeSalaryManagement Add Employee Interface Link:https://github.com/amoghavarsha910-svg/Employee-Salary-Management/blob/master/AddEmployeeInterface.png
+EmployeeSalaryManagement Add Employee Interface Link:"https://github.com/user-attachments/assets/10f7e436-8a1d-4086-ae1f-0f79c16172d0"
+
 
 
 EmployeeSalaryManagement Display Employee Interface Link:https://github.com/amoghavarsha910-svg/Employee-Salary-Management/blob/master/ViewEmployeeInterface.png
